@@ -1,4 +1,4 @@
-![logo](https://github.com/i-am-subhash/i-am-subhash/blob/main/minimal-dark-coding-wallpaper.png)
+![logo](https://github.com/i-am-subhash/i-am-subhash/blob/main/11minim121313g-wallpaper.png)
 <h1 align="center">Hi 👋, I'm Subhash Kumar Pal</h1>
 <h3 align="center">A Innovative Software Developer from Bihar</h3>
 
